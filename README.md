@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm MatttS
+  Hi 👋, I'm Mattt
 </h1>
 
 <p align="center">
@@ -23,6 +23,8 @@
 - 🛠 Turning ideas into **real, working systems**
 
 ---
+
+
 
 ## 🛠 Tech Stack
 
@@ -66,3 +68,32 @@
 <p align="center">
   <i>"Build. Measure. Improve."</i> ⚡
 </p>
+
+<p align="center">
+  <i>Dark-tech • System thinker • End-to-end builder</i>
+</p>
+
+---
+
+## 💻 Terminal Status
+
+```bash
+$ whoami
+mattt@github
+
+$ role
+All-Rounder Engineer
+
+$ domains
+IoT • Embedded Systems • Backend • Web Dashboard
+
+$ stack
+Arduino  ESP32  ESP8266
+MQTT  HTTP
+Node.js  Laravel  MySQL
+
+$ mindset
+Design systems, not just features
+
+$ current_status
+Building smart systems that actually work ⚙️
