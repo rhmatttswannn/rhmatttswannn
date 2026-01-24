@@ -97,3 +97,43 @@ Design systems, not just features
 
 $ current_status
 Building smart systems that actually work ⚙️
+
+```text
+┌────────────────────────────────┐
+│        Physical Layer          │
+│ LDR | INA219 | MPU6050         │
+│ pH | Temperature | Humidity   │
+└───────────────┬────────────────┘
+                │
+                ▼
+┌────────────────────────────────┐
+│        Embedded Layer          │
+│ ESP32 / Arduino               │
+│ Data Acquisition              │
+│ Signal Conditioning           │
+│ Local Processing              │
+└───────────────┬────────────────┘
+                │
+                ▼
+┌────────────────────────────────┐
+│      Communication Layer       │
+│ MQTT / HTTP                    │
+│ Realtime Data Stream           │
+└───────────────┬────────────────┘
+                │
+                ▼
+┌────────────────────────────────┐
+│         Backend Layer          │
+│ Node.js / Laravel              │
+│ REST API • Auth • Logic        │
+│ Data Processing                │
+└───────────────┬────────────────┘
+                │
+                ▼
+┌────────────────────────────────┐
+│       Application Layer        │
+│ Web Dashboard                  │
+│ Monitoring • Control           │
+│ Visualization                  │
+└────────────────────────────────┘
+```
