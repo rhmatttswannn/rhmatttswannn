@@ -73,8 +73,8 @@
   <i>Dark-tech • System thinker • End-to-end builder</i>
 </p>
 
----
 
+```md
 ## 💻 Terminal Status
 
 ```bash
