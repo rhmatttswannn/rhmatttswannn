@@ -59,7 +59,6 @@
 ## 🚀 Highlight Projects
 - 🔆 **Solar Tracker System** — Linear Regression Control
 - 🌱 **IoT Hydroponic Monitoring**
-- 🏥 **Medical Liquid Waste Monitoring**
 - 🤖 **Educational Robotics & AI Vision**
 
 ---
