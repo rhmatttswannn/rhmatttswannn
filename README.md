@@ -17,7 +17,7 @@
 
 ## 🧠 About Me
 - 🎓 Informatics Student (Class of 2021)
-- ⚡ **All-Rounder Developer**: Embedded, IoT, Web & Backend
+- ⚡ **All-Rounder Developer**: Embedded, IoT, & Web 
 - 🤖 Strong interest in **Robotics & Smart Systems**
 - 🛠 Turning ideas into **real, working systems**
 
