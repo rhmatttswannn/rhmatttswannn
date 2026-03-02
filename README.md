@@ -1,28 +1,36 @@
 <h1 align="center">
-  Hi 👋, I'm Mattt
+  Hi, I'm Mattt
 </h1>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=All-Rounder+Developer;IoT+%7C+Robotics+%7C+Web+Backend;ESP32+%7C+Arduino+%7C+Laravel+%7C+Node.js;Build+Hardware+%2B+Software+Solutions" 
-    alt="Typing SVG" 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=2000&color=6C63FF&center=true&vCenter=true&width=750&lines=Embedded+Systems+Engineer;IoT+Enthusiast;Tech+Enthusiast;Web+Developer" 
+    alt="Typing SVG"
   />
 </p>
 
+---
+
+
+## Let's Connect
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Dark%20Tech-Style-7F3FBF?style=for-the-badge" />
+  <a href="https://linkedin.com/in/USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/rhmatttswannn">
+    <img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
-
----
-
-## 🧠 About Me
-- 🎓 Informatics Student (Class of 2021)
-- ⚡ **All-Rounder Developer**: Embedded, IoT, & Web 
-- 🤖 Strong interest in **Robotics & Smart Systems**
-- 🛠 Turning ideas into **real, working systems**
-
----
-
 
 
 ## 🛠 Tech Stack
