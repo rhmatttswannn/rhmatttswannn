@@ -1,7 +1,6 @@
 <h1 align="center">
   Hi, I'm Mattt
 </h1>
-
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=2000&color=6C63FF&center=true&vCenter=true&width=750&lines=Embedded+Systems+Engineer;IoT+Enthusiast;Tech+Enthusiast;Web+Developer" 
@@ -15,19 +14,15 @@
 ## Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/USERNAME">
+  <a href="https://www.linkedin.com/in/rohmat-setiawan1">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:rsetiawannn1@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
-  <a href="https://github.com/rhmatttswannn">
-    <img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://instagram.com/USERNAME">
+  
+  <a href="https://www.instagram.com/maattishere">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
