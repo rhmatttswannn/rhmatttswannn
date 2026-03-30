@@ -46,6 +46,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=7F3FBF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=7F3FBF)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0A0A0A?style=for-the-badge&logo=bootstrap&logoColor=7F3FBF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=for-the-badge&logo=tailwind-css&logoColor=7F3FBF)
 
 ### 🗄 Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=7F3FBF)
