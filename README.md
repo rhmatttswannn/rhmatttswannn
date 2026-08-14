@@ -42,6 +42,8 @@
 ![MicroPython](https://img.shields.io/badge/MicroPython-0A0A0A?style=for-the-badge&logo=micropython&logoColor=7F3FBF)
 
 ### 🌐 Web Developer
+![Go](https://img.shields.io/badge/Go-0A0A0A?style=for-the-badge&logo=go&logoColor=7F3FBF)
+![TanStack](https://img.shields.io/badge/TanStack-0A0A0A?style=for-the-badge&logo=reactquery&logoColor=7F3FBF)
 ![Laravel](https://img.shields.io/badge/Laravel-0A0A0A?style=for-the-badge&logo=laravel&logoColor=7F3FBF)
 ![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=7F3FBF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=7F3FBF)
