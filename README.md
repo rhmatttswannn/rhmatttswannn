@@ -43,11 +43,19 @@
 
 ### 🌐 Web Developer
 ![Go](https://img.shields.io/badge/Go-0A0A0A?style=for-the-badge&logo=go&logoColor=7F3FBF)
+
+![Vue.js](https://img.shields.io/badge/Vue.js-0A0A0A?style=for-the-badge&logo=vuedotjs&logoColor=7F3FBF)
+
 ![TanStack](https://img.shields.io/badge/TanStack-0A0A0A?style=for-the-badge&logo=reactquery&logoColor=7F3FBF)
+
 ![Laravel](https://img.shields.io/badge/Laravel-0A0A0A?style=for-the-badge&logo=laravel&logoColor=7F3FBF)
+
 ![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=7F3FBF)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=7F3FBF)
+
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0A0A0A?style=for-the-badge&logo=bootstrap&logoColor=7F3FBF)
+
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=for-the-badge&logo=tailwind-css&logoColor=7F3FBF)
 
 ### 🗄 Database & Tools
